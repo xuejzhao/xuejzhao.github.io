@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgit_pages=self.webpackChunkgit_pages||[]).push([[640],{4695:e=>{e.exports=JSON.parse('{"title":"My Folder","description":"a description","slug":"/category/my-folder","permalink":"/category/my-folder","navigation":{"next":{"title":"new","permalink":"/folder/new"}}}')}}]);

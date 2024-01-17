@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgit_pages=self.webpackChunkgit_pages||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"dear readers","permalink":"/blog/dear-readers","unlisted":false}]}')}}]);
